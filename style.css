@@ -72,3 +72,13 @@ button{
     letter-spacing: 2px;
     margin-bottom: 25px;
 }
+
+footer{
+    color: #bfbfbf;
+    font-size: 14px;
+    font-family: Arial, sans-serif;
+    position: fixed;
+    bottom: 20px;
+    width: 100%;
+    text-align: center;
+}
